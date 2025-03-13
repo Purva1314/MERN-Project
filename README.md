@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Learning-MERN
 It is a E-Learning website which provides functionality of registering in any course and watch its related videos and many other features such as Admin Panel, Instructors related functions etc. 
 
@@ -152,3 +153,6 @@ npm run prod
 - [x] **[cors]()**
 - [x] **[jsonwebtoken]()**
 - [x] **[body-parser]()**
+=======
+# MERN-Project
+>>>>>>> 6723d7f112abffa2bf5acc68d10d01ae05319e5c
